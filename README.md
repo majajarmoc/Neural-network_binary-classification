@@ -44,8 +44,8 @@ Results obtained during the creation of the thesis project. The results in the a
 
 # Conclusions
 
-Overall, Model 4 with the GELU activation function shows the best performance on the validation set with the highest Accuracy, Precision, Sensitivity, Specificity, F1-score, and MCC values.
-Model 2 with the ReLU activation function also performs well, achieving high values for most metrics on the validation set.
-Model 3 with LeakyReLU activation performs decently but falls slightly behind Models 2 and 4.
-Model 1 with ReLU activation is competitive, but its performance is generally lower compared to Models 2 and 4.
-Model 5 with Linear activation function consistently underperforms compared to the other models.
+- Overall, Model 4 with the GELU activation function shows the best performance on the validation set with the highest Accuracy, Precision, Sensitivity, Specificity, F1-score, and MCC values.
+- Model 2 with the ReLU activation function also performs well, achieving high values for most metrics on the validation set.
+- Model 3 with LeakyReLU activation performs decently but falls slightly behind Models 2 and 4.
+- Model 1 with ReLU activation is competitive, but its performance is generally lower compared to Models 2 and 4.
+- Model 5 with Linear activation function consistently underperforms compared to the other models.
